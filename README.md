@@ -25,7 +25,7 @@ BFS Path: 0
 
 Explanation:
 
-Starting from vertex 0, BFS first visits its neighbors 1 and 2.
-Then it moves to vertex 1 and visits its unvisited neighbor, vertex 3.
-Finally, it explores vertex 3 (which has no unvisited neighbors), completing the traversal.
-This handles a connected graph, and both DFS and BFS will visit all vertices.
+Starting from vertex 0, BFS first visits its neighbors 1 and 2. <br>
+Then it moves to vertex 1 and visits its unvisited neighbor, vertex 3. <br>
+Finally, it explores vertex 3 (which has no unvisited neighbors), completing the traversal. <br>
+This handles a connected graph, and both DFS and BFS will visit all vertices. <br>
